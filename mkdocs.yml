@@ -16,7 +16,10 @@ nav:
       - "Purpose of the Codebook": introduction.md#purpose-of-the-codebook
       - "Overview of the Project": introduction.md#overview-of-the-project
       - "Targeted Stakeholders": introduction.md#targeted-stakeholders
-  - "Data Requirements & Structure": data-requirements.md
+      
+  - "Data Requirements & Structure": 
+      - Data Requirements: data-requirements.md
+  
   - "Methodology and Replication":
       - "Step 0: Establishing spatial units": methodology.md#step-0-establishing-spatial-units-for-intervention
       - "Step 1: Measuring Heat (SUHII)": methodology.md#step-1-measuring-heat---urban-heat-island-effect
@@ -26,7 +29,9 @@ nav:
   - "Limitations and Future Work":
       - Limitations: limitations.md#limitations
       - Future Work: limitations.md#future-work
-  - "References and Data Licensing": references.md
 
+      
+  - "References and Data Licensing":
+      - References: references.md
 
 
