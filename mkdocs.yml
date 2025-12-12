@@ -13,20 +13,20 @@ nav:
   - Welcome: index.md
   - Authors: index.md#authors
   - Introduction:
-      - Purpose of the Codebook: introduction.md#purpose-of-the-codebook
-      - Overview of the Project: introduction.md#overview-of-the-project
-      - Targeted Stakeholders: introduction.md#targeted-stakeholders
-  - Data Requirements & Structure: data-requirements.md
-  - Methodology and Replication:
-      - Step 0: Establishing spatial units: methodology.md#step-0-establishing-spatial-units-for-intervention
-      - Step 1: Measuring Heat (SUHII): methodology.md#step-1-measuring-heat---urban-heat-island-effect
-      - Step 2: Social Vulnerability: methodology.md#step-2-social-vulnerability
-      - Step 3: Holistic Heat Risk: methodology.md#step-3-calculating-holistic-heat-risk
-      - Step 4: 3-30-300 Improvement: methodology.md#step-4-identifying-areas-needing-3-30-300-improvement
-  - Limitations and Future Work:
+      - "Purpose of the Codebook": introduction.md#purpose-of-the-codebook
+      - "Overview of the Project": introduction.md#overview-of-the-project
+      - "Targeted Stakeholders": introduction.md#targeted-stakeholders
+  - "Data Requirements & Structure": data-requirements.md
+  - "Methodology and Replication":
+      - "Step 0: Establishing spatial units": methodology.md#step-0-establishing-spatial-units-for-intervention
+      - "Step 1: Measuring Heat (SUHII)": methodology.md#step-1-measuring-heat---urban-heat-island-effect
+      - "Step 2: Social Vulnerability": methodology.md#step-2-social-vulnerability
+      - "Step 3: Holistic Heat Risk": methodology.md#step-3-calculating-holistic-heat-risk
+      - "Step 4: 3-30-300 Improvement": methodology.md#step-4-identifying-areas-needing-3-30-300-improvement
+  - "Limitations and Future Work":
       - Limitations: limitations.md#limitations
       - Future Work: limitations.md#future-work
-  - References and Data Licensing: references.md
+  - "References and Data Licensing": references.md
 
 
 
