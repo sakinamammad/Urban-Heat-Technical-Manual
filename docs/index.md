@@ -1,3 +1,8 @@
+# Welcome
 
-# Urban Heat Technical Manual
-Content coming soon.
+Short welcome text.
+
+## Authors
+
+Names, affiliation.
+
