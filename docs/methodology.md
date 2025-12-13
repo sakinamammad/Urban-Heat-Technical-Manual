@@ -1,6 +1,6 @@
 # Methodology and Replication Instructions
 
-## Step 0: Establishing spatial units for intervention
+## Step 0: Extracting and Preparing Input Data
 
 ...your Step 0 text...
 
