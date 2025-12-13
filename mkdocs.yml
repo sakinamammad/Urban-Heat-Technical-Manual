@@ -21,7 +21,7 @@ nav:
       - Data Requirements: data-requirements.md
   
   - "Methodology and Replication":
-      - "Step 0: Establishing spatial units": methodology.md#step-0-establishing-spatial-units-for-intervention
+      - "Step 0: Extracting and Preparing Input Data": methodology.md#step-0-extracting-and-preparing-input-data
       - "Step 1: Measuring Heat (SUHII)": methodology.md#step-1-measuring-heat---urban-heat-island-effect
       - "Step 2: Social Vulnerability": methodology.md#step-2-social-vulnerability
       - "Step 3: Holistic Heat Risk": methodology.md#step-3-calculating-holistic-heat-risk
