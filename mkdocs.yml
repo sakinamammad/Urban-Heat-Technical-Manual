@@ -11,7 +11,6 @@ theme:
 
 nav:
   - Welcome: index.md
-  - Authors: index.md#authors
   - Introduction:
       - "Purpose of the Codebook": introduction.md#purpose-of-the-codebook
       - "Overview of the Project": introduction.md#overview-of-the-project
