@@ -26,6 +26,7 @@ nav:
       - "Step 2: Social Vulnerability": methodology.md#step-2-social-vulnerability
       - "Step 3: Holistic Heat Risk": methodology.md#step-3-calculating-holistic-heat-risk
       - "Step 4: 3-30-300 Improvement": methodology.md#step-4-identifying-areas-needing-3-30-300-improvement
+      - "Dashboard Development (Optional for Analysis)": methodology.md#dashboard-development-optional-for-analysis
   - "Limitations and Future Work":
       - Limitations: limitations.md#limitations
       - Future Work: limitations.md#future-work
