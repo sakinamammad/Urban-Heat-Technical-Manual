@@ -1,5 +1,8 @@
 # Methodology and Replication Instructions
 
+This section provides step-by-step instructions to replicate the preprocessing and data integration workflow used for Nairobi. All steps are written in an instructional format so analysts can apply the same process to any new city.
+
+
 ## Step 0: Extracting and Preparing Input Data
 
 ### Extract Data
