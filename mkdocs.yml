@@ -9,6 +9,8 @@ repo_name: Urban-Heat-Technical-Manual
 theme:
   name: readthedocs
 
+use_directory_urls: true
+
 nav:
   - Welcome: index.md
   - Introduction:
