@@ -25,7 +25,7 @@ nav:
       - Data Requirements: data-requirements/#ideal--minimum-standard-datasets
   
   - "Methodology and Replication":
-      - "Step 0: Extracting and Preparing Input Data": methodology.md#step-0-extracting-and-preparing-input-data
+      - "Step 0: Extracting and Preparing Input Data": methodology/#step-0-extracting-and-preparing-input-data
       - "Step 1: Measuring Heat (SUHII)": methodology/#step-1-measuring-heat---urban-heat-island-effect
       - "Step 2: Social Vulnerability": methodology/#step-2-social-vulnerability
       - "Step 3: Holistic Heat Risk": methodology/#step-3-calculating-holistic-heat-risk
