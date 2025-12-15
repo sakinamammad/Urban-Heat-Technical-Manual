@@ -22,7 +22,7 @@ nav:
       - "Targeted Stakeholders": introduction/#targeted-stakeholders
       
   - "Data Requirements & Structure": 
-      - Data Requirements: data-requirements.md
+      - Data Requirements: data-requirements/#ideal--minimum-standard-datasets
   
   - "Methodology and Replication":
       - "Step 0: Extracting and Preparing Input Data": methodology.md#step-0-extracting-and-preparing-input-data
