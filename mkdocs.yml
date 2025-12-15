@@ -26,17 +26,22 @@ nav:
   
   - "Methodology and Replication":
       - "Step 0: Extracting and Preparing Input Data": methodology.md#step-0-extracting-and-preparing-input-data
-      - "Step 1: Measuring Heat (SUHII)": methodology.md#step-1-measuring-heat---urban-heat-island-effect
-      - "Step 2: Social Vulnerability": methodology.md#step-2-social-vulnerability
-      - "Step 3: Holistic Heat Risk": methodology.md#step-3-calculating-holistic-heat-risk
-      - "Step 4: 3-30-300 Improvement": methodology.md#step-4-identifying-areas-needing-3-30-300-improvement
-      - "Dashboard Development (Optional for Analysis)": methodology.md#dashboard-development-optional-for-analysis
+      - "Step 1: Measuring Heat (SUHII)": methodology/#step-1-measuring-heat---urban-heat-island-effect
+      - "Step 2: Social Vulnerability": methodology/#step-2-social-vulnerability
+      - "Step 3: Holistic Heat Risk": methodology/#step-3-calculating-holistic-heat-risk
+      - "Step 4: 3-30-300 Improvement": methodology/#step-4-identifying-areas-needing-3-30-300-improvement
+      - "Dashboard Development (Optional for Analysis)": methodology/#dashboard-development-optional-for-analysis
+      
   - "Limitations and Future Work":
-      - Limitations: limitations.md#limitations
-      - Future Work: limitations.md#future-work
+      - Limitations: limitations/#limitations
+      - Future Work: limitations/#future-work
 
       
   - "References and Data Licensing":
-      - References: references.md
+      - References: references/#references
+      - Data References: references/#data-references
+
+
+      
 
 
