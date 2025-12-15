@@ -1,4 +1,4 @@
-## 2.1. Ideal & Minimum Standard Datasets
+## Ideal & Minimum Standard Datasets
 
 This section outlines the minimum datasets required to run the heat risk assessment, along with ideal datasets that can strengthen the analysis when available. Because the methodology is designed to be replicable across diverse cities with varying data environments, each dataset is categorized as either **Required (Minimum)** or **Optional (Ideal)**.
 
