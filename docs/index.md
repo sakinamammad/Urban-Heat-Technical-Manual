@@ -13,7 +13,4 @@ https://cmu.zoom.us/rec/share/9I8tb8d4dapOd6PpxMPQ-FmDYptCJuWNj0HyJUPHBcfUHhWkd4
 
 **Passcode:** `5AC.KJV4`
 
-**An online version of this technical manual, including interactive navigation and updates, is available at:**
-https://sakinamammad.github.io/Urban-Heat-Technical-Manual/
-
 
