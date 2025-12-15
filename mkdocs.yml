@@ -17,9 +17,9 @@ use_directory_urls: true
 nav:
   - Welcome: index.md
   - Introduction:
-      - "Purpose of the Codebook": introduction.md#purpose-of-the-codebook
-      - "Overview of the Project": introduction.md#overview-of-the-project
-      - "Targeted Stakeholders": introduction.md#targeted-stakeholders
+      - "Purpose of the Codebook": introduction/purpose-of-the-codebook
+      - "Overview of the Project": introduction/overview-of-the-project
+      - "Targeted Stakeholders": introduction/targeted-stakeholders
       
   - "Data Requirements & Structure": 
       - Data Requirements: data-requirements.md
